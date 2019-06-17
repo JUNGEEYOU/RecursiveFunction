@@ -22,7 +22,7 @@ def count_down(num)
 
 # 2. 문제 풀기 
 ## 2-1. 코드업(CodeUp) 재귀함수 문제 
-[2번. (재귀 함수) 1부터 n까지 역순으로 출력하기](https://github.com/JUNGEEYOU/RecursiveFunction/blob/master/1_2_codeup.py)
-[2번. (재귀 함수) 두 수 사이의 홀수 출력하기](https://github.com/JUNGEEYOU/RecursiveFunction/blob/master/1_3_codeup.py)  
+* [2번. (재귀 함수) 1부터 n까지 역순으로 출력하기](https://github.com/JUNGEEYOU/RecursiveFunction/blob/master/1_2_codeup.py)
+* [3번. (재귀 함수) 두 수 사이의 홀수 출력하기](https://github.com/JUNGEEYOU/RecursiveFunction/blob/master/1_3_codeup.py)  
 
 
